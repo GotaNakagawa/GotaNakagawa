@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-## Hello! I love sushi and McDonald's. 🍣🍔
+### Hello! I love sushi and McDonald's. 🍣🍔
 
 <!--
 **s1f102100793/s1f102100793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
