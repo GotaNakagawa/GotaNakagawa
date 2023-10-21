@@ -1,9 +1,9 @@
 ### Hi there 👋
 I love sushi and McDonald's. 🍣🍔
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={s1f102100793}&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1f102100793&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={s1f102100793}&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=s1f102100793&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
